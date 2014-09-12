@@ -16,6 +16,10 @@
     "ember-cli",
     "template"
   ],
+  "bugs": {
+    "url": "https://github.com/johnotander/ember-cli-addon-template/issues"
+  },
+  "homepage": "https://github.com/johnotander/ember-cli-addon-template",
   "author": "John Otander <johnotander@gmail.com> (http://johnotander.com/)",
   "license": "MIT"
 }
