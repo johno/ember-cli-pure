@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-addon-template",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A template to get me started creating ember-cli addons.",
   "main": "index.js",
   "scripts": {
