@@ -1,6 +1,6 @@
 # Ember CLI Pure
 
-An [ember-cli](http://ember-cli.com) addon to include Pure CSS in your Ember apps.
+An [ember-cli](http://ember-cli.com) addon to include [Pure CSS](http://purecss.io) in your Ember apps.
 
 ## Installation
 
@@ -23,6 +23,8 @@ That's it, Pure CSS is automagically included in your `vendor.css` file.
 ## License
 
 MIT
+
+Pure CSS is licensed under the [Yahoo! BSD License](https://github.com/yahoo/pure/blob/master/LICENSE.md)
 
 ## Contributing
 
