@@ -1,14 +1,24 @@
-# Ember CLI Addon Template
+# Ember CLI Pure
 
-A template to get me started creating an [ember-cli](http://ember-cli.com) addon.
+An [ember-cli](http://ember-cli.com) addon to include Pure CSS in your Ember apps.
 
 ## Installation
 
-TODO: Fill out installation details.
+First, you need to install pure via [bower](http://bower.io):
+
+```
+$ bower install --save pure
+```
+
+Then, install the addon:
+
+```
+npm install --save ember-cli-pure
+```
 
 ## Usage
 
-TODO: Fill out usage details.
+That's it, Pure CSS is automagically included in your `vendor.css` file.
 
 ## License
 

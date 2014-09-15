@@ -1,7 +1,7 @@
 {
-  "name": "ember-cli-addon-template",
+  "name": "ember-cli-pure",
   "version": "0.0.2",
-  "description": "A template to get me started creating ember-cli addons.",
+  "description": "An Ember addon for including Pure CSS.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,12 +14,14 @@
     "ember-addon",
     "ember",
     "ember-cli",
-    "template"
+    "pure",
+    "css",
+    "framework"
   ],
   "bugs": {
-    "url": "https://github.com/johnotander/ember-cli-addon-template/issues"
+    "url": "https://github.com/johnotander/ember-cli-pure/issues"
   },
-  "homepage": "https://github.com/johnotander/ember-cli-addon-template",
+  "homepage": "https://github.com/johnotander/ember-cli-pure",
   "author": "John Otander <johnotander@gmail.com> (http://johnotander.com/)",
   "license": "MIT"
 }
