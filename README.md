@@ -1,5 +1,7 @@
 # Ember CLI Pure
 
+[![Build Status](https://travis-ci.org/johnotander/ember-cli-pure.svg?branch=master)](https://travis-ci.org/johnotander/ember-cli-pure)
+
 An [ember-cli](http://ember-cli.com) addon to include [Pure CSS](http://purecss.io) in your Ember apps.
 
 ## Installation
