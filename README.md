@@ -4,25 +4,42 @@ An [ember-cli](http://ember-cli.com) addon to include [Pure CSS](http://purecss.
 
 ## Installation
 
-First, you need to install pure via [bower](http://bower.io):
-
 ```
-$ bower install --save pure
-```
-
-Then, install the addon:
-
-```
-npm install --save ember-cli-pure
+npm install --save-dev ember-cli-pure
+ember g ember-cli-pure
 ```
 
 ## Usage
 
 That's it, Pure CSS is automagically included in your `vendor.css` file.
 
+## Development
+
+### Installation
+
+* `git clone` this repository
+* `npm install`
+* `bower install`
+
+### Running
+
+* `ember server`
+* Visit your app at http://localhost:4200.
+
+### Running Tests
+
+* `ember test`
+* `ember test --server`
+
+### Building
+
+* `ember build`
+
+For more information on using ember-cli, visit [http://www.ember-cli.com/](http://www.ember-cli.com/).
+
 ## License
 
-MIT
+BSD
 
 Pure CSS is licensed under the [Yahoo! BSD License](https://github.com/yahoo/pure/blob/master/LICENSE.md)
 

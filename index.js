@@ -7,6 +7,6 @@ module.exports = {
     this.app = app;
     this._super.included(app);
 
-    app.import('bower_components/pure/pure.css');
+    app.import(app.bowerDirectory + '/pure/pure.css');
   }
 };
