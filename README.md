@@ -4,17 +4,16 @@ An [ember-cli](http://ember-cli.com) addon to include [Pure CSS](http://purecss.
 
 ## Installation
 
-If you are using Ember CLI 0.1.5 and higher:
+If you are using Ember CLI >= 0.2.3:
 
 ```
 ember install ember-cli-pure
 ```
 
-When your Ember CLI version is below 0.1.5:
+For Ember CLI < 0.2.3:
 
 ```
-npm install --save-dev ember-cli-pure
-ember g ember-cli-pure
+npm install:addon ember-cli-pure
 ```
 
 ## Usage
